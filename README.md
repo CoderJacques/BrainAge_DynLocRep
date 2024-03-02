@@ -36,7 +36,7 @@ To simplify usage, the scripts `src/pretrain_launcher.py` and `src/launcher_dyn_
 ```
 python3 src/pretrain_launcher.py src/configs/pretrain_infonce.yaml
 ```
-to run the pre-training under configuration specfied in `src/configs/pretrain_infonce.yaml`. Similarly, to initate training using the dynamic localised repulsions loss:
+to run the pre-training on [openBHB dataset](https://ieee-dataport.org/open-access/openbhb-multi-site-brain-mri-dataset-age-prediction-and-debiasing) under configuration specfied in `src/configs/pretrain_infonce.yaml`. Similarly, to initate training using the dynamic localised repulsions loss:
 
 ```
 python3 src/launcher_dyn_loc_rep.py src/configs/dyn_loc_rep.yaml
