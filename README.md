@@ -45,7 +45,3 @@ python3 src/launcher_dyn_loc_rep.py src/configs/dyn_loc_rep.yaml
 ### Model checkpoints
 
 The checkpoints of the pre-trained model are available here.
-
-## Citing
-
-If you use this code for your research, please cite our paper:
