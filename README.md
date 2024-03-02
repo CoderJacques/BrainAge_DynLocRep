@@ -42,6 +42,14 @@ to run the pre-training under configuration specfied in `src/configs/pretrain_in
 python3 src/launcher_dyn_loc_rep.py src/configs/dyn_loc_rep.yaml
 ```
 
+### Evaluation
+
+To evaluate models, use:
+
+```
+python3 src/evaluate_model.py
+```
+
 ### Model checkpoints
 
 The checkpoints of the pre-trained model are available here.
