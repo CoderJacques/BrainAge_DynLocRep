@@ -52,4 +52,4 @@ python3 src/evaluate_model.py
 
 ### Model checkpoints
 
-The checkpoints of the pre-trained model are available here.
+The checkpoints of the pre-trained model are available [here](https://www.dropbox.com/scl/fo/388sxcfqm8j5wqi8wd48s/h?rlkey=os4w04io9umyvwwe04l3wqhfs&dl=0).
