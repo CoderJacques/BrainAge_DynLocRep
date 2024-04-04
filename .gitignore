@@ -1,0 +1,14 @@
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+*.iml
+out
+gen
+
+/src/wandb
+/src/__pycache__
+/src/models/__pycache__
+/output
+/venv
+.idea
